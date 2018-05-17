@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">49479160842-abelqsjaf6joplv0cqfsu36n05358mt4.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">49479160842</string>
+    <string name="google_api_key" translatable="false">AIzaSyDT10EL1fuXFTmuwlWPQoEosSQ4YIXr268</string>
+    <string name="google_app_id" translatable="false">1:49479160842:android:808015aa95735ea05ffbf3</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyDT10EL1fuXFTmuwlWPQoEosSQ4YIXr268</string>
+    <string name="google_storage_bucket" translatable="false">storiz-a609a.appspot.com</string>
+    <string name="project_id" translatable="false">storiz-a609a</string>
+</resources>

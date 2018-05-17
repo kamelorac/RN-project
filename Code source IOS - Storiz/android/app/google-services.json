@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "49479160842",
+    "project_id": "storiz-a609a",
+    "storage_bucket": "storiz-a609a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:49479160842:android:808015aa95735ea05ffbf3",
+        "android_client_info": {
+          "package_name": "com.storiz.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "49479160842-abelqsjaf6joplv0cqfsu36n05358mt4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDT10EL1fuXFTmuwlWPQoEosSQ4YIXr268"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "49479160842-abelqsjaf6joplv0cqfsu36n05358mt4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
